@@ -6,16 +6,24 @@ I build production web, mobile and desktop software, most recently for healthcar
 
 Currently leading an AI-assisted clinical documentation product for doctors, running in production on web and mobile.
 
-## Selected work
+## Professional work
+
+Company and client projects. Source code is private; live sites are linked where available.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Clinical Documentation Platform** | AI-assisted clinical documentation for doctors, web and mobile *(private, company product)* | React, TypeScript, React Native, Node.js, PostgreSQL, Azure AI Foundry |
-| **NeuroICU Patient Management** | Electronic records for neuro-ICU teams with HL7 FHIR and DICOM integration *(private)* | React, Material UI, Express.js, PostgreSQL |
-| **Bookstore Management System** | Cross-platform desktop app with inventory, point of sale and invoicing | Electron, React, TypeScript, Prisma, PostgreSQL |
-| **[maktaba-e-ilmiya.com](https://www.maktaba-e-ilmiya.com)** | Live online store with catalog, cart and user accounts | Next.js |
+| **Clinical Documentation Platform** | AI-assisted clinical documentation for doctors, web and mobile | React, TypeScript, React Native, Node.js, PostgreSQL, Azure AI Foundry |
+| **NeuroICU Patient Management** | Electronic records for neuro-ICU teams with HL7 FHIR and DICOM integration | React, Material UI, Express.js, PostgreSQL |
 | **[archiwiz.com](https://archiwiz.com) · [archiwizbuild.com](https://archiwizbuild.com) · [safesolutionsconsultants.com](https://safesolutionsconsultants.com)** | Live business sites for companies in the US and Pakistan | Next.js |
+| **[maktaba-e-ilmiya.com](https://www.maktaba-e-ilmiya.com)** | Live online store with catalog, cart and user accounts | Next.js |
 | **Self-hosted Chatwoot** | Open-source customer support software deployed on Azure with SSL | Azure VM, Linux |
+
+## Public projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Bookstore Management System](https://github.com/wassii-khan-git/books-system)** | Cross-platform desktop app with inventory, point of sale and invoicing | Electron, React, TypeScript, Prisma, PostgreSQL |
+| **[Backend Microservices](https://github.com/wassii-khan-git/backend-microservices)** | Five REST API microservices (freeCodeCamp Back End certification) | Node.js, Express.js, MongoDB |
 
 ## Tech stack
 
