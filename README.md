@@ -16,12 +16,12 @@ Company and client projects. Source code is private; live sites are linked where
 | **NeuroICU Patient Management** | Electronic records for neuro-ICU teams with HL7 FHIR and DICOM integration | React, Material UI, Express.js, PostgreSQL |
 | **[archiwiz.com](https://archiwiz.com) · [archiwizbuild.com](https://archiwizbuild.com) · [safesolutionsconsultants.com](https://safesolutionsconsultants.com)** | Live business sites for companies in the US and Pakistan | Next.js |
 | **[maktaba-e-ilmiya.com](https://www.maktaba-e-ilmiya.com)** | Live online store with catalog, cart and user accounts | Next.js |
-| **Self-hosted Chatwoot** | Open-source customer support software deployed on Azure with SSL | Azure VM, Linux |
 
 ## Public projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Attune AI](https://github.com/wassii-khan-git/attune-ai)** · [live demo](https://attune-ai-web.vercel.app) | AI clinical scribe: records a consultation and drafts an editable SOAP note, with HIPAA-style safeguards | Next.js, Express, TypeScript, PostgreSQL, Gemini |
 | **[Bookstore Management System](https://github.com/wassii-khan-git/books-system)** | Cross-platform desktop app with inventory, point of sale and invoicing | Electron, React, TypeScript, Prisma, PostgreSQL |
 | **[Backend Microservices](https://github.com/wassii-khan-git/backend-microservices)** | Five REST API microservices (freeCodeCamp Back End certification) | Node.js, Express.js, MongoDB |
 
@@ -40,4 +40,4 @@ Most of my production work lives in private company repositories, so my public c
 
 ## Contact
 
-[Email](mailto:wassiikhan933@gmail.com) · [LinkedIn](https://www.linkedin.com/in/waseem-khan-5a9393214) · [Portfolio](https://portfolio-git-main-wassii-khan-gits-projects.vercel.app/)
+[Email](mailto:wassiikhan933@gmail.com) · [LinkedIn](https://www.linkedin.com/in/waseem-khan-5a9393214) · [Portfolio](https://portfolio-git-main-wassii-khan-gits-projects.vercel.app)
